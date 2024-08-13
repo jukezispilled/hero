@@ -70,7 +70,7 @@ function App() {
             hero
           </span>
           <div className='text-center text-xs md:text-lg -mt-4'>
-            CA: updating...
+            CA: AEUa7ecyqwMcfP9nH1MHPJg78TZJNdNXmxKoPuAvpump
           </div>
         </div>
         <div className="absolute inset-x-0 bottom-0 overflow-hidden">
